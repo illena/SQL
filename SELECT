@@ -1,1 +1,1 @@
-SELECT * FROM guano;
+SELECT * FROM guano WHERE id=1;
